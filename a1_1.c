@@ -1,6 +1,5 @@
 #include "contiki.h"
 #include "dev/leds.h"
-
 #include <stdio.h>
 
 PROCESS(assignment1_process, "Assignment 1 - Part 1");
